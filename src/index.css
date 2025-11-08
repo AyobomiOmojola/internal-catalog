@@ -1,0 +1,14 @@
+/* @plugin "daisyui"; */
+@import "tailwindcss";
+
+@theme {
+  --font-marcellus: "Marcellus SC", serif;
+  --font-allura: "Allura", cursive;
+  --font-italianno: "Italianno", cursive;
+  --font-inter: "Inter", serif;
+  --color-mainBody: #f9f8f5;
+  --color-selectionDormant: #b8b8b8;
+  --color-brownAccent: #6d3c28;
+  --color-lightBrown: #f1dec9;
+  --color-lightGrey: #fffdf5;
+}

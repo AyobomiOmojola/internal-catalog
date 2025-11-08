@@ -28,7 +28,7 @@ export const dimension = [
 export const productCatalogue = [
   {
     id: "1",
-    image: "images/bedFrames/Group 11.png",
+    image: "images/bedFrames/Group 11.webp",
     type: "bedframes",
     name: "The Floating Saucer",
     description:
@@ -53,7 +53,7 @@ export const productCatalogue = [
   },
   {
     id: "2",
-    image: "images/bedFrames/Group 17.png",
+    image: "images/bedFrames/Group 17.webp",
     type: "bedframes",
     name: "The Minimal Stance",
     description:
@@ -78,7 +78,7 @@ export const productCatalogue = [
   },
   {
     id: "3",
-    image: "images/bedFrames/Group 14.png",
+    image: "images/bedFrames/Group 14.webp",
     type: "bedframes",
     name: "Checkerboard Orb Solace",
     description:
@@ -103,7 +103,7 @@ export const productCatalogue = [
   },
   {
     id: "4",
-    image: "images/bedFrames/Group 15.png",
+    image: "images/bedFrames/Group 15.webp",
     type: "bedframes",
     name: "The Regal Arched Bed",
     description:
@@ -128,7 +128,7 @@ export const productCatalogue = [
   },
   {
     id: "5",
-    image: "images/bedFrames/Group 16.png",
+    image: "images/bedFrames/Group 16.webp",
     type: "bedframes",
     name: "Grandeur Modern Floating Bed",
     description:
@@ -153,7 +153,7 @@ export const productCatalogue = [
   },
   {
     id: "6",
-    image: "images/bedFrames/Group 20.png",
+    image: "images/bedFrames/Group 20.webp",
     type: "bedframes",
     name: "The Modern Bloc",
     description:
@@ -178,7 +178,7 @@ export const productCatalogue = [
   },
   {
     id: "7",
-    image: "images/bedFrames/Group 18.png",
+    image: "images/bedFrames/Group 18.webp",
     type: "bedframes",
     name: "The Manor Arched Gable",
     description:
@@ -203,7 +203,7 @@ export const productCatalogue = [
   },
   {
     id: "8",
-    image: "images/bedFrames/Group 19.png",
+    image: "images/bedFrames/Group 19.webp",
     type: "bedframes",
     name: "The Pillow-Back Refuge",
     description:
@@ -228,7 +228,7 @@ export const productCatalogue = [
   },
   {
     id: "9",
-    image: "images/bedFrames/Group 13.png",
+    image: "images/bedFrames/Group 13.webp",
     type: "bedframes",
     name: "Integrated Executive Lift-Top",
     description:
@@ -253,7 +253,7 @@ export const productCatalogue = [
   },
   {
     id: "10",
-    image: "images/bedFrames/Group 54.png",
+    image: "images/bedFrames/Group 54.webp",
     type: "bedframes",
     name: "Wide Deck Winged Saucer",
     description:
@@ -278,7 +278,7 @@ export const productCatalogue = [
   },
   {
     id: "11",
-    image: "images/centerTables/Group 4.png",
+    image: "images/centerTables/Group 4.webp",
     type: "center tables",
     name: "The Forever Parallel",
     description:
@@ -303,7 +303,7 @@ export const productCatalogue = [
   },
   {
     id: "12",
-    image: "images/centerTables/Group 9.png",
+    image: "images/centerTables/Group 9.webp",
     type: "center tables",
     name: "Otherworld Otterman",
     description:
@@ -328,7 +328,7 @@ export const productCatalogue = [
   },
   {
     id: "13",
-    image: "images/centerTables/Group 2.png",
+    image: "images/centerTables/Group 2.webp",
     type: "center tables",
     name: "The Pillar & Pod",
     description:
@@ -353,7 +353,7 @@ export const productCatalogue = [
   },
   {
     id: "14",
-    image: "images/centerTables/Group 62.png",
+    image: "images/centerTables/Group 62.webp",
     type: "center tables",
     name: "Greg Offset Interlock",
     description:
@@ -378,7 +378,7 @@ export const productCatalogue = [
   },
   {
     id: "15",
-    image: "images/centerTables/Group 5.png",
+    image: "images/centerTables/Group 5.webp",
     type: "center tables",
     name: "Apex Origami",
     description:
@@ -403,7 +403,7 @@ export const productCatalogue = [
   },
   {
     id: "16",
-    image: "images/centerTables/Group 6.png",
+    image: "images/centerTables/Group 6.webp",
     type: "center tables",
     name: "The Sideless Cube",
     description:
@@ -428,7 +428,7 @@ export const productCatalogue = [
   },
   {
     id: "17",
-    image: "images/centerTables/Group 7.png",
+    image: "images/centerTables/Group 7.webp",
     type: "center tables",
     name: "The Assymetric Floating Top",
     description:
@@ -453,7 +453,7 @@ export const productCatalogue = [
   },
   {
     id: "18",
-    image: "images/centerTables/Group 8.png",
+    image: "images/centerTables/Group 8.webp",
     type: "center tables",
     name: "The Slide & Store Centerpiece",
     description:
@@ -478,7 +478,7 @@ export const productCatalogue = [
   },
   {
     id: "19",
-    image: "images/centerTables/Group 3.png",
+    image: "images/centerTables/Group 3.webp",
     type: "center tables",
     name: "The Bean Peach",
     description:
@@ -503,7 +503,7 @@ export const productCatalogue = [
   },
   {
     id: "20",
-    image: "images/centerTables/Group 10.png",
+    image: "images/centerTables/Group 10.webp",
     type: "center tables",
     name: "The Butterfly Effect",
     description:
@@ -528,7 +528,7 @@ export const productCatalogue = [
   },
   {
     id: "21",
-    image: "images/centerTables/Group 52.png",
+    image: "images/centerTables/Group 52.webp",
     type: "center tables",
     name: "The Ying-Yang",
     description:
@@ -553,7 +553,7 @@ export const productCatalogue = [
   },
   {
     id: "22",
-    image: "images/centerTables/Group 59.png",
+    image: "images/centerTables/Group 59.webp",
     type: "center tables",
     name: "The C-Frame Embrace",
     description:
@@ -578,7 +578,7 @@ export const productCatalogue = [
   },
   {
     id: "23",
-    image: "images/sofas/Group 60.png",
+    image: "images/sofas/Group 60.webp",
     type: "sofas",
     name: "The Beamline Open Frame",
     description:
@@ -603,7 +603,7 @@ export const productCatalogue = [
   },
   {
     id: "24",
-    image: "images/sofas/Group 21.png",
+    image: "images/sofas/Group 21.webp",
     type: "sofas",
     name: "Shadow Line Sectional sofa",
     description:
@@ -628,7 +628,7 @@ export const productCatalogue = [
   },
   {
     id: "25",
-    image: "images/sofas/Group 25.png",
+    image: "images/sofas/Group 25.webp",
     type: "sofas",
     name: "Elders Haven",
     description:
@@ -653,7 +653,7 @@ export const productCatalogue = [
   },
   {
     id: "26",
-    image: "images/sofas/Group 56.png",
+    image: "images/sofas/Group 56.webp",
     type: "sofas",
     name: "Urban Studio Sofa",
     description:
@@ -678,7 +678,7 @@ export const productCatalogue = [
   },
   {
     id: "27",
-    image: "images/sofas/Group 35.png",
+    image: "images/sofas/Group 35.webp",
     type: "sofas",
     name: "The Mid-Century Retreat",
     description:
@@ -703,7 +703,7 @@ export const productCatalogue = [
   },
   {
     id: "28",
-    image: "images/sofas/Group 12.png",
+    image: "images/sofas/Group 12.webp",
     type: "sofas",
     name: "Drawer Dweller Oasis",
     description:
@@ -728,7 +728,7 @@ export const productCatalogue = [
   },
   {
     id: "29",
-    image: "images/sofas/Group 31.png",
+    image: "images/sofas/Group 31.webp",
     type: "sofas",
     name: "The Plush Pebble Base",
     description:
@@ -753,7 +753,7 @@ export const productCatalogue = [
   },
   {
     id: "30",
-    image: "images/sofas/Group 55.png",
+    image: "images/sofas/Group 55.webp",
     type: "sofas",
     name: "The Horizon Hideaway",
     description:
@@ -778,7 +778,7 @@ export const productCatalogue = [
   },
   {
     id: "31",
-    image: "images/sofas/Group 37.png",
+    image: "images/sofas/Group 37.webp",
     type: "sofas",
     name: "Arden Fluid-Form Sofa",
     description:
@@ -803,7 +803,7 @@ export const productCatalogue = [
   },
   {
     id: "32",
-    image: "images/sofas/Group 40.png",
+    image: "images/sofas/Group 40.webp",
     type: "sofas",
     name: "Grace Lounge Ensemble",
     description:
@@ -828,7 +828,7 @@ export const productCatalogue = [
   },
   {
     id: "33",
-    image: "images/sofas/Group 27.png",
+    image: "images/sofas/Group 27.webp",
     type: "sofas",
     name: "Stow Connect Sofa",
     description:
@@ -853,7 +853,7 @@ export const productCatalogue = [
   },
   {
     id: "34",
-    image: "images/sofas/Group 23.png",
+    image: "images/sofas/Group 23.webp",
     type: "sofas",
     name: "The Integrated Settle",
     description:
@@ -878,7 +878,7 @@ export const productCatalogue = [
   },
   {
     id: "35",
-    image: "images/sofas/Group 57.png",
+    image: "images/sofas/Group 57.webp",
     type: "sofas",
     name: "The Signature Armroll Sofa",
     description:
@@ -903,7 +903,7 @@ export const productCatalogue = [
   },
   {
     id: "36",
-    image: "images/sofas/Group 58.png",
+    image: "images/sofas/Group 58.webp",
     type: "sofas",
     name: "The Pin-Tuck Retro Sofa",
     description:
@@ -928,7 +928,7 @@ export const productCatalogue = [
   },
   {
     id: "37",
-    image: "images/diningSets/Group 41.png",
+    image: "images/diningSets/Group 41.webp",
     type: "dining sets",
     name: "Arched Ladder-Back Set",
     description:
@@ -954,7 +954,7 @@ export const productCatalogue = [
   },
   {
     id: "38",
-    image: "images/diningSets/Group 44.png",
+    image: "images/diningSets/Group 44.webp",
     type: "dining sets",
     name: "Tuck-Away Interlock Set",
     description:
@@ -980,7 +980,7 @@ export const productCatalogue = [
   },
   {
     id: "39",
-    image: "images/diningSets/Group 43.png",
+    image: "images/diningSets/Group 43.webp",
     type: "dining sets",
     name: "Retro Close-Quater Set",
     description:
@@ -1006,7 +1006,7 @@ export const productCatalogue = [
   },
   {
     id: "40",
-    image: "images/diningSets/Group 51.png",
+    image: "images/diningSets/Group 51.webp",
     type: "dining sets",
     name: "Fluted Supper Collective Set",
     description:
@@ -1032,7 +1032,7 @@ export const productCatalogue = [
   },
   {
     id: "41",
-    image: "images/diningSets/Group 46.png",
+    image: "images/diningSets/Group 46.webp",
     type: "dining sets",
     name: "Arboreal Ribbed Cascade Set",
     description:
@@ -1058,7 +1058,7 @@ export const productCatalogue = [
   },
   {
     id: "42",
-    image: "images/diningSets/Group 47.png",
+    image: "images/diningSets/Group 47.webp",
     type: "dining sets",
     name: "Nesting Nook Set",
     description:
@@ -1084,7 +1084,7 @@ export const productCatalogue = [
   },
   {
     id: "43",
-    image: "images/diningSets/Group 48.png",
+    image: "images/diningSets/Group 48.webp",
     type: "dining sets",
     name: "Circle-Back Retro Set",
     description:
@@ -1110,7 +1110,7 @@ export const productCatalogue = [
   },
   {
     id: "44",
-    image: "images/diningSets/Group 49.png",
+    image: "images/diningSets/Group 49.webp",
     type: "dining sets",
     name: "Barrel-Back Set",
     description:
@@ -1136,7 +1136,7 @@ export const productCatalogue = [
   },
   {
     id: "45",
-    image: "images/chairs/Group 22.png",
+    image: "images/chairs/Group 22.webp",
     type: "chairs",
     name: "Tulip Splay",
     description:
@@ -1162,7 +1162,7 @@ export const productCatalogue = [
   },
   {
     id: "46",
-    image: "images/chairs/Group 36.png",
+    image: "images/chairs/Group 36.webp",
     type: "chairs",
     name: "Ergo-Sway Gravity Glide",
     description:
@@ -1188,7 +1188,7 @@ export const productCatalogue = [
   },
   {
     id: "47",
-    image: "images/chairs/Group 32.png",
+    image: "images/chairs/Group 32.webp",
     type: "chairs",
     name: "Lambda Cradle Arm-Chair",
     description:
@@ -1214,7 +1214,7 @@ export const productCatalogue = [
   },
   {
     id: "48",
-    image: "images/chairs/Group 34.png",
+    image: "images/chairs/Group 34.webp",
     type: "chairs",
     name: "Snuggly Cozy Glide",
     description:
@@ -1240,7 +1240,7 @@ export const productCatalogue = [
   },
   {
     id: "49",
-    image: "images/chairs/Group 30.png",
+    image: "images/chairs/Group 30.webp",
     type: "chairs",
     name: "The Macaron Pod",
     description:
@@ -1266,7 +1266,7 @@ export const productCatalogue = [
   },
   {
     id: "50",
-    image: "images/chairs/Group 61.png",
+    image: "images/chairs/Group 61.webp",
     type: "chairs",
     name: "The Accent Stool",
     description:
@@ -1292,7 +1292,7 @@ export const productCatalogue = [
   },
   {
     id: "51",
-    image: "images/chairs/Group 33.png",
+    image: "images/chairs/Group 33.webp",
     type: "chairs",
     name: "Single Mid-Century Retreat",
     description:
@@ -1317,7 +1317,7 @@ export const productCatalogue = [
   },
   {
     id: "52",
-    image: "images/chairs/Group 24.png",
+    image: "images/chairs/Group 24.webp",
     type: "chairs",
     name: "Grand Regent Set",
     description:
@@ -1346,7 +1346,7 @@ export const productCatalogue = [
   },
   {
     id: "53",
-    image: "images/chairs/Group 28.png",
+    image: "images/chairs/Group 28.webp",
     type: "chairs",
     name: "The Cloud Comfort",
     description:
@@ -1372,7 +1372,7 @@ export const productCatalogue = [
   },
   {
     id: "54",
-    image: "images/chairs/Group 39.png",
+    image: "images/chairs/Group 39.webp",
     type: "chairs",
     name: "Double C-Curve Compact",
     description:
@@ -1398,7 +1398,7 @@ export const productCatalogue = [
   },
   {
     id: "55",
-    image: "images/chairs/Group 26.png",
+    image: "images/chairs/Group 26.webp",
     type: "chairs",
     name: "Classic Heirloom Glide",
     description:
@@ -1424,7 +1424,7 @@ export const productCatalogue = [
   },
   {
     id: "56",
-    image: "images/centerTables/Group 1.png",
+    image: "images/centerTables/Group 1.webp",
     type: "center tables",
     name: "The Duet Floating Top",
     description:

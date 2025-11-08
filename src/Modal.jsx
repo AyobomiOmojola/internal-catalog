@@ -36,13 +36,13 @@ const Modal = () => {
     >
       <div
         ref={modalRef}
-        className="bg-white w-full max-w-[950px] h-[75vh] rounded flex relative"
+        className="bg-imageBackground w-full max-w-[950px] h-[75vh] rounded flex relative"
       >
-        <div className="basis-6/10 bg-gray-200">
+        <div className="basis-6/10">
           <img
             src={displayedProduct?.image}
             alt=""
-            className="object-cover w-full h-full"
+            className="object-contain w-full h-full"
           />
         </div>
 

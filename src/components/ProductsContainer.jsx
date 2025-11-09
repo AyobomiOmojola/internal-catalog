@@ -19,7 +19,6 @@ const ProductsContainer = ({ displayedProducts }) => {
                 src={image}
                 alt=""
                 className="h-full w-full object-cover  rounded-xl hover:scale-105 transition-transform duration-600"
-                loading="lazy"
               />
             </div>
             <div className="flex h-[100px] justify-between items-center px-6 border-t-2 border-b-2 border-lightBrown ">

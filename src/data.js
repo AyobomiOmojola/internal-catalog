@@ -1287,7 +1287,7 @@ export const productCatalogue = [
       tableHeight: "",
       tableLength: "",
     },
-    materials: [],
+    materials: ["Fabric Textile", "Masonia Wood"],
     colors: ["#6f6f6f"],
   },
   {
@@ -1312,7 +1312,7 @@ export const productCatalogue = [
       tableWidth: "",
       tableHeight: "",
     },
-    materials: [],
+    materials: ["Leather Textile", "Mahogany Wood"],
     colors: ["#3e0212", "#ffffff"],
   },
   {
@@ -1341,7 +1341,7 @@ export const productCatalogue = [
       otterManHeight: '16"',
       otterManLength: '16"',
     },
-    materials: [],
+    materials: ["Leather Textile", "Mahogany Wood"],
     colors: ["#3e0212", "#2f2f2f", "#af875d"],
   },
   {
@@ -1367,7 +1367,7 @@ export const productCatalogue = [
       tableHeight: "",
       tableLength: "",
     },
-    materials: [],
+    materials: ["Fabric Textile", "Masonia Wood"],
     colors: ["#ffffff", "#2f2f2f"],
   },
   {
@@ -1393,7 +1393,7 @@ export const productCatalogue = [
       tableHeight: "",
       tableLength: "",
     },
-    materials: [],
+    materials: ["Fabric Textile", "Masonia Wood"],
     colors: ["#6f6f6f", "#ffffff"],
   },
   {
@@ -1419,7 +1419,7 @@ export const productCatalogue = [
       tableHeight: "",
       tableLength: "",
     },
-    materials: [],
+    materials: ["Mahogany Wood"],
     colors: ["#af875d", "#2f2f2f"],
   },
   {
